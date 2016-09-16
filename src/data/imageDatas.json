@@ -1,82 +1,152 @@
 [
-	{
-		"fileName":"1.jpg",
-		"title":"Heave of time",
-		"des":"Here he comes Here comes Speed Race",
-	},
-	{
-		"fileName":"2.jpg",
-		"title":"Heave of time",
-		"des":"Here he comes Here comes Speed Race",
-	},
-	{
-		"fileName":"3.jpg",
-		"title":"Heave of time",
-		"des":"Here he comes Here comes Speed Race",
-	},
-	{
-		"fileName":"4.jpg",
-		"title":"Heave of time",
-		"des":"Here he comes Here comes Speed Race",
-	},
-	{
-		"fileName":"5.jpg",
-		"title":"Heave of time",
-		"des":"Here he comes Here comes Speed Race",
-	},
-	{
-		"fileName":"6.jpg",
-		"title":"Heave of time",
-		"des":"Here he comes Here comes Speed Race",
-	},
-	{
-		"fileName":"7.jpg",
-		"title":"Heave of time",
-		"des":"Here he comes Here comes Speed Race",
-	},
-	{
-		"fileName":"8.jpg",
-		"title":"Heave of time",
-		"des":"Here he comes Here comes Speed Race",
-	},
-	{
-		"fileName":"9.jpg",
-		"title":"Heave of time",
-		"des":"Here he comes Here comes Speed Race",
-	},
-	{
-		"fileName":"10.jpg",
-		"title":"Heave of time",
-		"des":"Here he comes Here comes Speed Race",
-	},
-	{
-		"fileName":"11.jpg",
-		"title":"Heave of time",
-		"des":"Here he comes Here comes Speed Race",
-	},
-	{
-		"fileName":"12.jpg",
-		"title":"Heave of time",
-		"des":"Here he comes Here comes Speed Race",
-	},
-	{
-		"fileName":"13.jpg",
-		"title":"Heave of time",
-		"des":"Here he comes Here comes Speed Race",
-	},
-	{
-		"fileName":"14.jpg",
-		"title":"Heave of time",
-		"des":"Here he comes Here comes Speed Race",
-	},
-	{
-		"fileName":"15.jpg",
-		"title":"Heave of time",
-		"des":"Here he comes Here comes Speed Race",
-	},
-	{
-		"fileName":"16.jpg",
-		"title":"Heave of time",
-		"des":"Here he comes Here comes Speed Race",
-	},
+  {
+    "fileName": "1.jpg",
+    "title": "九寨沟",
+    "desc": "逆境中，力挽狂澜使强者更强，随波逐流使弱者更弱。"
+  },
+  {
+    "fileName": "2.jpg",
+    "title": "九寨沟",
+    "desc": "平静的湖面锻炼不出精悍的水手；安逸的生活打造不出生活的强者。"
+  },
+  {
+    "fileName": "3.jpg",
+    "title": "九寨沟",
+    "desc": "人生的磨难是很多的，所以我们不可对于每一件轻微的伤害都过于敏感。在生活磨难面前，精神上的坚强和无动于衷是我们抵抗罪恶和人生意外的最好武器"
+  },
+  {
+    "fileName": "4.jpg",
+    "title": "篮球赛",
+    "desc": "古之立大事者，不惟有超世之才，亦必有坚韧不拔之志。 "
+  },
+  {
+    "fileName": "5.jpg",
+    "title": "小时候",
+    "desc": "成功开始于想法, 但是, 只有这样的想法, 却没有付出行动, 还是不可能成功的. "
+  },
+  {
+    "fileName": "6.jpg",
+    "title": "小时候",
+    "desc": "一旦做出决定就不要拖延. 任何事情想到就去做! 立即行动! "
+  },
+  {
+    "fileName": "7.jpg",
+    "title": "打篮球",
+    "desc": "社会充满不公平现象。你先不要想去改造它，只能先适应它。(因为你管不了它)。 "
+  },
+  {
+    "fileName": "8.jpg",
+    "title": "皇马战袍",
+    "desc": "这个世界不是因为你能做什么，而是你该做什么。 "
+  },
+  {
+    "fileName": "9.jpg",
+    "title": "济南过山车",
+    "desc": "不要贪多，做精做透很重要，碰到一个强大的对手或者榜样的时候，你应该做的不是去挑战它，而是去弥补它。"
+  },
+  {
+    "fileName": "10.jpg",
+    "title": "厦门大学",
+    "desc": "自强不息，止于至善 "
+  },
+  {
+    "fileName": "11.jpg",
+    "title": "南昌滕王阁",
+    "desc": "老当益壮，宁移白首之心？穷且益坚，不坠青云之志。"
+  },
+  {
+    "fileName": "12.jpg",
+    "title": "南昌滕王阁",
+    "desc": "落霞与孤鹜气氛，秋水共长天一色 "
+  },
+  {
+    "fileName": "13.jpg",
+    "title": "国立武汉大学",
+    "desc": "自强 弘毅 求是 拓新 "
+  },
+  {
+    "fileName": "14.jpg",
+    "title": "研究生寝室",
+    "desc": "先定一个能达到的小目标，比方说，我先挣它一个亿！  "
+  },
+  {
+    "fileName": "15.jpg",
+    "title": "考研怀念",
+    "desc": "心有多大舞台就有多大，志向大小决定了你成功的概率。 "
+  },
+  {
+    "fileName": "16.jpg",
+    "title": "双学位",
+    "desc": "We're here to put a dent in the universe. Otherwise why else even be here?  "
+  },
+  {
+    "fileName": "17.jpg",
+    "title": "兰桂坊",
+    "desc": "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it."
+  },
+  {
+    "fileName": "18.jpg",
+    "title": "泉州的大龙虾",
+    "desc": "尽管失败和挫折等待着人们，一次次地夺走青春的容颜，但却给人生的前景增添了一份尊严，这是任何顺利的成功都不能做到的 "
+  },
+  {
+    "fileName": "19.jpg",
+    "title": "4:00凌晨成都的样子",
+    "desc": "走曾经走过的路，唱曾经唱过的歌，爱曾经爱过的人，却再也提不起恨。 "
+  },
+  {
+    "fileName": "20.jpg",
+    "title": "起手龙七对",
+    "desc": "青春是打开了就合不上的书， 人生是踏上了就回不了头的路，爱情是扔出了就收不回的赌注。 "
+  },
+  {
+    "fileName": "21.jpg",
+    "title": "运动会",
+    "desc": "Here he comes Here comes Speed Racer. "
+  },
+  {
+    "fileName": "22.jpg",
+    "title": "河南省实验中学",
+    "desc": "When you have eliminated the impossible, whatever remains, however improbable, must be the truth.  "
+  },
+  {
+    "fileName": "23.jpg",
+    "title": "青岛",
+    "desc": "不管风吹浪打，胜似闲庭信步，今日得宽馀。"
+  },
+  {
+    "fileName": "24.jpg",
+    "title": "湖人二连冠",
+    "desc": "Everything negative - pressure, challenges - is all an opportunity for me to rise. "
+  },
+  {
+    "fileName": "25.jpg",
+    "title": "Kobe Bryant",
+    "desc": "Love me or hate me, it's one or the other. Always has been. Hate my game, my swagger. Hate my fadeaway, my hunger. Hate that I'm a veteran. A champion. Hate that. Hate it with all your heart. And hate that I'm loved, for the exact same reasons."
+  },
+  {
+    "fileName": "26.jpg",
+    "title": "考前复习",
+    "desc": "人在沉迷的状态是一种幸福，为了一个目标，而孜孜不倦，上下求索，在不断的希望、失望的更迭中，会忘记忧愁、疲倦以及任何能带给你负面情绪的东西"
+  },
+  {
+    "fileName": "27.jpg",
+    "title": "Kaka",
+    "desc": "天空寄托着我的信仰，张开双臂，仰望天空，是对上天恩赐的感激。"
+  },
+  {
+    "fileName": "28.jpg",
+    "title": "川南某地",
+    "desc": "富士山下扬汉旗，樱花树下赏胡姬"
+  },
+  {
+    "fileName": "29.jpg",
+    "title": "code code code",
+    "desc": "printf(“Hello World!\\n ”); "
+  },
+  {
+    "fileName": "30.jpg",
+    "title": "Conan",
+    "desc": "If you precise destruction, in the public interest, I am willing to accept death.  "
+  }
 ]

@@ -6,7 +6,7 @@
  */
 'use strict';
 var webpack = require('webpack');
-
+require('less-loader');
 module.exports = {
 
   output: {
@@ -47,7 +47,7 @@ module.exports = {
       loader: 'react-hot!babel-loader'
     }, {
       test: /\.less/,
-      loader: 'style-loader!css-loader!autoprefixer-loader!less-loader'
+      loader: 'style-loader!css-loader!autoprefixer-loader!less-loader?outputStyle=expanded'
     }, {
       test: /\.css$/,
       loader: 'style-loader!css-loader!autoprefixer-loader!'
@@ -56,7 +56,7 @@ module.exports = {
       loader:'json-loader'
     },
     {
-      test: /\.(png|jpg|woff|woff2)$/,
+      test: /\.(png|jpg|woff|woff2|eot|svg|ttf)$/,
       loader: 'url-loader?limit=8192'
     }]
   },

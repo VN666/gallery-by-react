@@ -57,12 +57,12 @@ module.exports = {
       loader: 'style-loader!css-loader!autoprefixer-loader!'
     }, {
       test: /\.less/,
-      loader: 'style-loader!css-loader!autoprefixer-loader!less-loader'
+      loader: 'style-loader!css-loader!autoprefixer-loader!less-loader?outputStyle=expanded'
     },{
       test:/\.json$/,
       loader:'json-loader'
     },{
-      test: /\.(png|jpg|woff|woff2)$/,
+      test: /\.(png|jpg|woff|woff2|eot|svg|ttf)$/,
       loader: 'url-loader?limit=8192'
     }]
   }
